@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">🚀 Minhas Skills</h2>
+<h2 align="left">🚀 Tecnologias que estudo atualmente</h2>
 
 ###
 
